@@ -20,6 +20,8 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,7 +37,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ![Node](https://img.shields.io/badge/NODE-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+### Databases
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -47,16 +49,61 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+</div>
+
 ## 🚀 Featured Projects
 
+### 🎲 HyperJump
+<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="HyperJump Demo"/>
+
+*Java-based turn-based board game with dice roll mechanics and multiple gameplay modes.*
+
+**Stack** · Java · Spring Boot · Maven
+
+- Multiple gameplay variations (single-die, exact-end rules)
+- Clean architecture design
+- Turn-based multiplayer board game logic
+
+<br clear="right"/>
+
+### 🐡 Fish Food Frenzy
+<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="Fish Food Frenzy Demo"/>
+
+*2D outer-space game where a fish swims around collecting food to increase its score.*
+
+**Stack** · Java · Processing
+
+- Real-time movement and collision detection
+- Score-based gameplay loop
+- University project focused on OOP principles
+
+<br clear="right"/>
+
+### 🚗 Velocity Motors
+<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="VelocityMotors Demo"/>
+
+*Full-stack vehicle marketplace application with separate client and server.*
+
+**Stack** · Vue · Node · Express · SQLite · Bootstrap
+
+- Separate Vue client and Node/Express server
+- SQLite database integration
+- Full marketplace functionality (listings, browsing)
+
+<br clear="right"/>
+
 ### 📚 Books Store
-> Simple bookstore management application featuring inventory tracking, user management, and modern web technologies.
+<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="BooksStore Demo"/>
 
-### 🏢 Oridox Solutions
-> Business website built with React and modern frontend technologies.
+*Responsive book store website with browsing, payment, and card validation.*
 
-### 🎮 Fish Food Frenzy
-> Processing 4 game project focused on gameplay mechanics and object-oriented programming.
+**Stack** · HTML · CSS · JavaScript
+
+- Book browsing interface
+- Payment page with card validation form
+- Responsive design across devices
+
+<br clear="right"/>
 
 ## 📊 GitHub Statistics
 
@@ -67,11 +114,11 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 ## 📫 Connect With Me
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirRmelTheThird)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armel.bissaka7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armelbissaka)
-
-<div align="center">
 
 ### Thanks for visiting my profile! 🚀
 
