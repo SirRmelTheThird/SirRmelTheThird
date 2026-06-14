@@ -21,9 +21,9 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ## 🛠️ Tech Stack
 
 <td>
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+<table>
 <tr>
-<td valign="top" style="border: none;">
+<td valign="top">
 
 ### Languages
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +45,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </td>
-<td valign="top" style="border: none;">
+<td valign="top">
 
 ### Tools & Package Managers
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
