@@ -1,13 +1,13 @@
+
 <div align="center">
 
 # Hi, I'm Armel 👋
-
 ### Upcoming Software Developer
 
 Building full-stack applications, exploring cloud technologies, and creating practical software solutions.
 
 [![GitHub followers](https://img.shields.io/github/followers/SirRmelTheThird?style=for-the-badge)](https://github.com/SirRmelTheThird)
-[![GitHub Stars](https://img.shields.io/github/stars/SirRmelTheThird?affiliations=OWNER&style=for-the-badge)](https://github.com/SirRmelTheThird)
+[![GitHub Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=public_repos&url=https://api.github.com/users/SirRmelTheThird)](https://github.com/SirRmelTheThird?tab=repositories)
 
 </div>
 
@@ -19,11 +19,6 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 - 🚀 Building personal and professional software projects
 
 ## 🛠️ Tech Stack
-
-<td>
-<table>
-<tr>
-<td valign="top">
 
 ### Languages
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,9 +39,6 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</td>
-<td valign="top">
-
 ### Tools & Package Managers
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -54,10 +46,6 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ## 🚀 Featured Projects
 
@@ -79,9 +67,9 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/SirRmelTheThird
-- Gmail: armel.bissaka7@gmail.com
-- LinkedIn: www.linkedin.com/in/armelbissaka
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirRmelTheThird)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armel.bissaka7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armelbissaka)
 
 <div align="center">
 
