@@ -54,7 +54,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ## 🚀 Featured Projects
 
 ### 🎲 HyperJump
-<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="HyperJump Demo"/>
+<img align="right" src="https://github.com/SirRmelTheThird/HyperJump/blob/main/docs/demo.gif?raw=true" width="120" alt="HyperJump Demo"/>
 
 *Java-based turn-based board game with dice roll mechanics and multiple gameplay modes.*
 
