@@ -100,7 +100,7 @@
 
 ### [📚 Books Store](https://github.com/SirRmelTheThird/BooksStore)
 
-<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="BooksStore Demo"/>
+<img align="right" src="https://github.com/SirRmelTheThird/BooksStore/blob/main/BooksStore/docs/demo.gif?raw=true" width="120" alt="BooksStore Demo"/>
 
 *Responsive book store website with browsing, payment, and card validation.*
 
