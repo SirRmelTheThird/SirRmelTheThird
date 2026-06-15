@@ -11,7 +11,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ## 👨‍💻 About Me
 
 - 🎓 Undergraduate 
-- 🌱 Currently learning **Cloud Architecture & DevOps**
+- 🌱 Currently learning **Cloud Architecture & React**
 - 💻 Interested in **Full-Stack Development**
 - 🚀 Building personal and professional software projects
 
