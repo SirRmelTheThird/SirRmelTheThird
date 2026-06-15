@@ -93,8 +93,8 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=SirRmelTheThird&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SirRmelTheThird&theme=tokyonight&hide_border=true" />
+  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=SirRmelTheThird&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="50%" height="2000px" src="https://github-readme-streak-stats.herokuapp.com/?user=SirRmelTheThird&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 📫 Connect With Me
