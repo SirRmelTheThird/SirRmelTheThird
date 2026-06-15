@@ -86,7 +86,7 @@
 
 ### [🚗 Velocity Motors](https://github.com/SirRmelTheThird/VelocityMotors)
 
-<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="VelocityMotors Demo"/>
+<img align="right" src="https://github.com/SirRmelTheThird/VelocityMotors/blob/main/VelocityMotors/docs/demo.gif?raw=true" width="350" alt="VelocityMotors Demo"/>
 
 *Full-stack vehicle marketplace application with separate client and server.*
 
