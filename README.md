@@ -57,7 +57,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 **Stack** · Java · Spring Boot · Maven
 
-- Multiple gameplay variations (single-die, exact-end rules)
+- Multiple gameplay variations
 - Clean architecture design
 - Turn-based multiplayer board game logic
 
@@ -72,7 +72,8 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 - Real-time movement and collision detection
 - Score-based gameplay loop
-- University project focused on OOP principles
+- University project
+- OOP principles
 
 <br clear="right"/>
 
@@ -116,7 +117,5 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirRmelTheThird)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armel.bissaka7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armelbissaka)
-
-### Thanks for visiting my profile! 🚀
 
 </div>
