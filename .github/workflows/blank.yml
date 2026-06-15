@@ -17,7 +17,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: SirRmelTheThird
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=bb9af7&color_dots=1a1b27,29355a,3d59a1,7aa2f7,bb9af7
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23bb9af7&color_dots=%231a1b27,%2329355a,%233d59a1,%237aa2f7,%23bb9af7
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
