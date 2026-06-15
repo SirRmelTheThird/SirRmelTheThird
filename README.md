@@ -53,7 +53,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 ## 🚀 Featured Projects
 
-### 🎲 HyperJump
+### [🎲 HyperJump](https://github.com/SirRmelTheThird/HyperJump)
 <img align="right" src="https://github.com/SirRmelTheThird/HyperJump/blob/main/HyperJump/docs/demo.gif?raw=true" width="350" alt="HyperJump Demo"/>
 
 *Java-based turn-based board game with dice roll mechanics and multiple gameplay modes.*
@@ -66,7 +66,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 <br clear="right"/>
 
-### 🐡 Fish Food Frenzy
+### [🐡 Fish Food Frenzy](https://github.com/SirRmelTheThird/FishFoodFrenzy)
 <img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="240" alt="Fish Food Frenzy Demo"/>
 
 *2D outer-space game where a fish swims around collecting food to increase its score.*
@@ -79,7 +79,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 <br clear="right"/>
 
-### 🚗 Velocity Motors
+### [🚗 Velocity Motors](https://github.com/SirRmelTheThird/VelocityMotors)
 <img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="VelocityMotors Demo"/>
 
 *Full-stack vehicle marketplace application with separate client and server.*
@@ -92,7 +92,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 <br clear="right"/>
 
-### 📚 Books Store
+### [📚 Books Store](https://github.com/SirRmelTheThird/BooksStore)
 <img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="BooksStore Demo"/>
 
 *Responsive book store website with browsing, payment, and card validation.*
