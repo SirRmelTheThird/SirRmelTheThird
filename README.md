@@ -3,9 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Armel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Software Engineer Student
+**`Software Engineer Student`**
 
-Building full-stack applications, exploring cloud technologies, and creating practical software solutions.
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirRmelTheThird)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armel.bissaka7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armelbissaka)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/968429117747888158)
 
 </div>
 
@@ -18,18 +21,41 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
-| Category | Skills |
-|---|---|
-| **Languages** | <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a> <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" /></a> <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a> |
-| **Frameworks** | <a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" /></a> <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a> <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a> |
-| **Databases** | <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a> <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a> <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" /></a> |
-| **Tools & Package Managers** | <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a> |
-| **IDEs** | <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a> <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a> |
-| **Cloud & Hosting** | <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a> <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" /></a> |
+### Languages
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 
-</div>
+### Frameworks
+<a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" /></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+
+### Databases
+<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
+
+### Tools & Package Managers
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
+
+### IDEs
+<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+
+### Cloud & Hosting
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 
 <details>
 <summary><h2>🚀 Featured Projects</h2></summary>
@@ -64,6 +90,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 <br clear="right"/>
 
 ### [🚗 Velocity Motors](https://github.com/SirRmelTheThird/VelocityMotors)
+
 <img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="VelocityMotors Demo"/>
 
 *Full-stack vehicle marketplace application with separate client and server.*
@@ -106,13 +133,10 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 </div>
 
-## 📫 Connect With Me
+## 💭 Quote Of The Day
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirRmelTheThird)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armel.bissaka7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armelbissaka)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/968429117747888158)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
