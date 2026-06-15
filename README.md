@@ -109,13 +109,10 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ## 📫 Connect With Me
 
 <div align="center">
-<a href="https://discord.com/users/968429117747888158" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-</a>
-<a href="mailto:armel.bissaka7@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-<a href="https://www.linkedin.com/in/armelbissaka" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-</a>
+  
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirRmelTheThird)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armel.bissaka7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armelbissaka)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/968429117747888158)
+
 </div>
