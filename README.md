@@ -12,7 +12,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 - 🎓 Undergraduate 
 - 🌱 Currently learning **Cloud Architecture & React**
@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Tools
+### 💻 Languages & Tools
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" /></a>
@@ -41,14 +41,14 @@
 <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
 
-### Frameworks
+### 🧩 Frameworks
 <a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" /></a>
 <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a>
 <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
 <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
 <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
 
-### Cloud & Hosting
+### ☁️ Cloud & Hosting
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
 <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 
