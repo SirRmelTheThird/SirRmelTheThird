@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Tools
 <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" /></a>
@@ -31,27 +31,22 @@
 <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-
-### Frameworks
-<a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a>
-<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-
-### Databases
+<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
+<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 <a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
 
-### Tools & Package Managers
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
-
-### IDEs
-<a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
-<a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+### Frameworks
+<a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" /></a>
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
 
 ### Cloud & Hosting
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
