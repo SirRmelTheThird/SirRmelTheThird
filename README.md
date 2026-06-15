@@ -19,7 +19,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ## 🛠️ Tech Stack
 
 <div align="center">
-
+  
 | Category | Skills |
 |---|---|
 | **Languages** | <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://www.php.net"><img src="https://skillicons.dev/icons?i=php" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a> <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a> |
@@ -31,11 +31,11 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 
 </div>
 
-
 <details>
 <summary><h2>🚀 Featured Projects</h2></summary>
 
 ### [🎲 HyperJump](https://github.com/SirRmelTheThird/HyperJump)
+
 <img align="right" src="https://github.com/SirRmelTheThird/HyperJump/blob/main/HyperJump/docs/demo.gif?raw=true" width="350" alt="HyperJump Demo"/>
 
 *Java-based turn-based board game with dice roll mechanics and multiple gameplay modes.*
@@ -49,6 +49,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 <br clear="right"/>
 
 ### [🐡 Fish Food Frenzy](https://github.com/SirRmelTheThird/FishFoodFrenzy)
+
 <img align="right" src="https://github.com/SirRmelTheThird/FishFoodFrenzy/blob/main/FishFoodFrenzy/docs/demo.gif?raw=true" width="350" alt="Fish Food Frenzy Demo"/>
 
 *2D outer-space game where a fish swims around collecting food to increase its score.*
@@ -72,10 +73,11 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 - Separate Vue client and Node/Express server
 - SQLite database integration
 - Full marketplace functionality (listings, browsing)
-
+  
 <br clear="right"/>
 
 ### [📚 Books Store](https://github.com/SirRmelTheThird/BooksStore)
+
 <img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="BooksStore Demo"/>
 
 *Responsive book store website with browsing, payment, and card validation.*
@@ -85,16 +87,23 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 - Book browsing interface
 - Payment page with card validation form
 - Responsive design across devices
-
+  
 <br clear="right"/>
-
 </details>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=SirRmelTheThird&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="50%" height="2000px" src="https://github-readme-streak-stats.herokuapp.com/?user=SirRmelTheThird&theme=tokyonight&hide_border=true" />
+  
+<img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=SirRmelTheThird&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="50%" height="2000px" src="https://github-readme-streak-stats.herokuapp.com/?user=SirRmelTheThird&theme=tokyonight&hide_border=true" />
+  
+</div>
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/SirRmelTheThird/SirRmelTheThird/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ## 📫 Connect With Me
