@@ -54,7 +54,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 ## 🚀 Featured Projects
 
 ### 🎲 HyperJump
-<img align="right" src="https://github.com/SirRmelTheThird/HyperJump/blob/main/HyperJump/docs/demo.gif?raw=true" width="120" alt="HyperJump Demo"/>
+<img align="right" src="https://github.com/SirRmelTheThird/HyperJump/blob/main/HyperJump/docs/demo.gif?raw=true" width="350" alt="HyperJump Demo"/>
 
 *Java-based turn-based board game with dice roll mechanics and multiple gameplay modes.*
 
@@ -67,7 +67,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 <br clear="right"/>
 
 ### 🐡 Fish Food Frenzy
-<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="120" alt="Fish Food Frenzy Demo"/>
+<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="240" alt="Fish Food Frenzy Demo"/>
 
 *2D outer-space game where a fish swims around collecting food to increase its score.*
 
