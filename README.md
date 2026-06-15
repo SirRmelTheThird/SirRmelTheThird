@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Armel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-Upcoming Software Engineer
+Software Engineer Student
 
 Building full-stack applications, exploring cloud technologies, and creating practical software solutions.
 
