@@ -6,14 +6,11 @@
 
 Building full-stack applications, exploring cloud technologies, and creating practical software solutions.
 
-[![GitHub followers](https://img.shields.io/github/followers/SirRmelTheThird?style=for-the-badge)](https://github.com/SirRmelTheThird)
-[![GitHub Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=public_repos&url=https://api.github.com/users/SirRmelTheThird)](https://github.com/SirRmelTheThird?tab=repositories)
-
 </div>
 
 ## 👨‍💻 About Me
 
-- 🎓 Undergraduate Student 
+- 🎓 Undergraduate 
 - 🌱 Currently learning **Cloud Architecture & DevOps**
 - 💻 Interested in **Full-Stack Development**
 - 🚀 Building personal and professional software projects
@@ -67,7 +64,7 @@ Building full-stack applications, exploring cloud technologies, and creating pra
 <br clear="right"/>
 
 ### [🐡 Fish Food Frenzy](https://github.com/SirRmelTheThird/FishFoodFrenzy)
-<img align="right" src="LINK_TO_GIF_OR_SCREENSHOT" width="240" alt="Fish Food Frenzy Demo"/>
+<img align="right" src="https://github.com/SirRmelTheThird/FishFoodFrenzy/blob/main/FishFoodFrenzy/docs/demo.gif?raw=true" width="350" alt="Fish Food Frenzy Demo"/>
 
 *2D outer-space game where a fish swims around collecting food to increase its score.*
 
