@@ -32,7 +32,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea" /></a>
