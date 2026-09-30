@@ -56,7 +56,7 @@
 
 ### [🦁 Riget Zoo Adventures](https://github.com/SirRmelTheThird/RigetZooAdventures)
 
-<img align="right" src="https://github.com/user-attachments/assets/d6c7d951-cfd1-42a1-8d10-4c40749492b1">
+<img align="right" src="https://github.com/user-attachments/assets/d6c7d951-cfd1-42a1-8d10-4c40749492b1" width="350" alt="Riget Zoo Adventures">
 
 *Full-stack PHP zoo booking and accommodation platform with custom MVC architecture, payments, authentication, and transactional booking workflows.*
 
