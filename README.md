@@ -54,17 +54,54 @@
 <details>
 <summary><h2>🚀 Featured Projects</h2></summary>
 
+### [🦁 Riget Zoo Adventures](https://github.com/SirRmelTheThird/RigetZooAdventures)
+
+<img align="right" src="https://github.com/user-attachments/assets/d6c7d951-cfd1-42a1-8d10-4c40749492b1" width="350" alt="Riget Zoo Adventures Demo"/>
+
+*Full-stack PHP zoo booking and accommodation platform with custom MVC architecture, payments, authentication, and transactional booking workflows.*
+
+**Stack** · PHP · Eloquent ORM · MySQL · Stripe · Composer · PHPUnit · PHPStan
+
+* Custom MVC architecture with dependency injection, middleware, services, repositories, and DTOs
+* Ticket and accommodation booking with availability and date-overlap validation
+* Session-based shopping cart supporting multiple item types
+* Stripe Payment Intent integration with webhook handling for payment events
+* Authentication, CSRF protection, session regeneration, protected routes, and centralised error handling
+* PHPUnit unit and integration testing across authentication, cart, booking, checkout, payments, routing, and repositories
+
+<br clear="right"/>
+
 ### [🎲 HyperJump](https://github.com/SirRmelTheThird/HyperJump)
 
 <img align="right" src="https://github.com/SirRmelTheThird/HyperJump/blob/main/HyperJump/docs/demo.gif?raw=true" width="350" alt="HyperJump Demo"/>
 
-*Java-based turn-based board game with dice roll mechanics and multiple gameplay modes.*
+*Java turn-based board game designed around Ports and Adapters architecture, with interchangeable game rules, dice systems, persistence, and replay functionality.*
 
 **Stack** · Java · Spring Boot · Maven
 
-- Multiple gameplay variations
-- Clean architecture design
-- Turn-based multiplayer board game logic
+* Hexagonal / Ports and Adapters architecture separating domain logic from infrastructure
+* Multiple gameplay variations including different dice systems, movement rules, player counts, and board mechanics
+* Replayable games using abstracted dice and persistence adapters
+* Repository abstraction with in-memory storage and persistence adapters
+* Factory, Strategy, Decorator, State, Observer, and Repository design patterns
+* Strong focus on SOLID principles and dependency inversion
+
+<br clear="right"/>
+
+### [🚗 Velocity Motors](https://github.com/SirRmelTheThird/VelocityMotors)
+
+<img align="right" src="https://github.com/SirRmelTheThird/VelocityMotors/blob/main/VelocityMotors/docs/demo.gif?raw=true" width="350" alt="Velocity Motors Demo"/>
+
+*Full-stack vehicle marketplace with a Vue frontend and separate Node/Express backend API.*
+
+**Stack** · Vue · Vite · Node.js · Express · SQLite · Joi · Mocha · Chai
+
+* Separate client and server architecture with a Vue frontend and Express API
+* Vehicle marketplace functionality for browsing and managing listings
+* Server-side request validation using Joi
+* SQLite database integration with dedicated backend data handling
+* Automated backend testing with Mocha, Chai, and Chai HTTP
+* CORS, logging, and development tooling with Morgan and Nodemon
 
 <br clear="right"/>
 
@@ -72,45 +109,20 @@
 
 <img align="right" src="https://github.com/SirRmelTheThird/FishFoodFrenzy/blob/main/FishFoodFrenzy/docs/demo.gif?raw=true" width="350" alt="Fish Food Frenzy Demo"/>
 
-*2D outer-space game where a fish swims around collecting food to increase its score.*
+*2D arcade game built with Processing where the player controls a fish, collects food, and avoids enemy puffer fish.*
 
 **Stack** · Java · Processing
 
-- Real-time movement and collision detection
-- Score-based gameplay loop
-- University project
-- OOP principles
+* Real-time keyboard-controlled player movement
+* Collision detection between the player, food, and enemies
+* Score-based gameplay loop with increasing player objectives
+* Object-oriented game structure for player, food, and enemy entities
+* Developed as a university project
 
 <br clear="right"/>
 
-### [🚗 Velocity Motors](https://github.com/SirRmelTheThird/VelocityMotors)
-
-<img align="right" src="https://github.com/SirRmelTheThird/VelocityMotors/blob/main/VelocityMotors/docs/demo.gif?raw=true" width="350" alt="VelocityMotors Demo"/>
-
-*Full-stack vehicle marketplace application with separate client and server.*
-
-**Stack** · Vue · Node · Express · SQLite · Bootstrap
-
-- Separate Vue client and Node/Express server
-- SQLite database integration
-- Full marketplace functionality (listings, browsing)
-  
-<br clear="right"/>
-
-### [📚 Books Store](https://github.com/SirRmelTheThird/BooksStore)
-
-<img align="right" src="https://github.com/SirRmelTheThird/BooksStore/blob/main/BooksStore/docs/demo.gif?raw=true" width="350" alt="BooksStore Demo"/>
-
-*Responsive book store website with browsing, payment, and card validation.*
-
-**Stack** · HTML · CSS · JavaScript
-
-- Book browsing interface
-- Payment page with card validation form
-- Responsive design across devices
-  
-<br clear="right"/>
 </details>
+
 
 ## 📊 GitHub Statistics
 
