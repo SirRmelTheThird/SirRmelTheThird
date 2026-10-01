@@ -3,9 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Armel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<img
+  src="https://img.shields.io/badge/Profile%20views-400,000-2F7F88?labelColor=15161E&style=flat-square"
+  alt="Profile views"
+/>
+
 **`Software Engineer Student`**
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirRmelTheThird)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armel.bissaka7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armelbissaka)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/968429117747888158)
