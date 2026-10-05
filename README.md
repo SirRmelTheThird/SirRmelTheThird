@@ -142,11 +142,3 @@
 ![Snake animation](https://raw.githubusercontent.com/SirRmelTheThird/SirRmelTheThird/output/github-contribution-grid-snake.svg)
 
 </div>
-
-## 💭 Quote Of The Day
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
